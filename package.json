@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "enquirer": "^2.3.4"
+    "enquirer": "^2.3.4",
+    "node-fetch": "^2.6.0"
   }
 }
