@@ -1,4 +1,8 @@
 {
+  "author": "Slavko Bojanic",
+  "scripts": {
+    "start": "node main.js"
+  },
   "name": "gphotos-album-generator",
   "version": "1.0.0",
   "main": "index.js",
